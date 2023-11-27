@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "name": "Steel sword",
+    "price": 100,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon01.png"
+  },
+  {
+    "id": "2",
+    "name": "Bronze sword",
+    "price": 50,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon02.png"
+  },
+  {
+    "id": "3",
+    "name": "Treasure map",
+    "price": 200,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon03.png"
+  },
+  {
+    "id": "4",
+    "name": "Old treasure map",
+    "price": 250,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon04.png"
+  },
+  {
+    "id": "5",
+    "name": "Cutlass",
+    "price": 300,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon05.png"
+  },
+  {
+    "id": "6",
+    "name": "Rapier",
+    "price": 150,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon06.png"
+  },
+  {
+    "id": "7",
+    "name": "Ancient treasure map",
+    "price": 500,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon07.png"
+  },
+  {
+    "id": "8",
+    "name": "Wood leg",
+    "price": 200,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon08.png"
+  },
+  {
+    "id": "9",
+    "name": "Treasure chest",
+    "price": 400,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon09.png"
+  },
+  {
+    "id": "10",
+    "name": "Old treasure chest",
+    "price": 500,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon10.png"
+  },
+  {
+    "id": "11",
+    "name": "Compass",
+    "price": 100,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon11.png"
+  },
+  {
+    "id": "12",
+    "name": "Ancient compass",
+    "price": 1200,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon12.png"
+  },
+  {
+    "id": "13",
+    "name": "Ancient treasure chest",
+    "price": 100,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon13.png"
+  },
+  {
+    "id": "14",
+    "name": "Golden key",
+    "price": 50,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon14.png"
+  },
+  {
+    "id": "15",
+    "name": "Treasure map fragment",
+    "price": 50,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon15.png"
+  },
+  {
+    "id": "16",
+    "name": "Spyglass",
+    "price": 230,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon16.png"
+  },
+  {
+    "id": "17",
+    "name": "Legendary sword",
+    "price": 3000,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon17.png"
+  },
+  {
+    "id": "18",
+    "name": "Dagger",
+    "price": 100,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon18.png"
+  },
+  {
+    "id": "19",
+    "name": "Pirate treasure",
+    "price": 100,
+    "image": "free-pirate-stuff-pixel-art-icons/PNG/Transparent/Icon19.png"
+  }
+]

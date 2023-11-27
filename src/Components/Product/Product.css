@@ -1,0 +1,32 @@
+.product {
+    min-width: 150px;
+    max-width: 150px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px;
+    margin-right: 20px;
+    border: solid 1px #ccc;
+}
+
+.product__image_container {
+    display: flex; /* Set the display to flex */
+    flex-direction: row; /* Set the direction to row */
+    align-items: stretch; /* Make the items take the full height */
+    justify-content: center; /* Center the items horizontally */
+}
+
+.product__image {
+    height: auto; /* Set the height to auto */
+    margin: auto;
+    flex-grow: .5;
+}
+
+.product__name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    width: auto;
+}

@@ -1,0 +1,14 @@
+.product-list-title {
+  text-align: left;
+}
+
+.horizontal-scroll {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  margin: 1rem;
+  height: 200px;
+  width: 100%;
+  padding: 20px;
+  align-items: flex-start;
+}

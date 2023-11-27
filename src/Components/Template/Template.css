@@ -1,0 +1,47 @@
+.template {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 10px;
+}
+
+.template-settings {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+}
+
+.spacer {
+  flex-grow: 1;
+}
+.spacer::before {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+.template-actions button {
+  margin-left: 10px;
+  height: 30px;
+  font-size: 12px;
+}
+
+.zoom-control {
+  display: flex;
+  align-items: center;
+}
+
+.template-title-text {
+  text-align: left;
+}
+
+.template-rows {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+}

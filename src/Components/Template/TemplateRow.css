@@ -1,0 +1,87 @@
+.template-row {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  border: 1px solid #ccc;
+  padding: 10px;
+  overflow: visible;
+}
+
+.template-row-settings {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.spacer {
+  flex-grow: 1;
+}
+
+.delete-row-button {
+  position: absolute;
+  top: -16px;
+  right: -16px;
+  z-index: 1;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.template-row-products {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-grow: 0;
+  height: 200px;
+}
+
+.product-container {
+  position: relative;
+  overflow: visible;
+}
+
+.remove-button {
+  position: absolute;
+  top: -15px;
+  right: 5px;
+  z-index: 1;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.template-row-product-placeholder {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  border: 1px solid white;
+}
+
+.template-row-align-left {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.template-row-align-right {
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.template-row-align-center {
+  flex-direction: row;
+  justify-content: center;
+}
